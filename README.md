@@ -22,6 +22,6 @@ Welcome to my repository! I am a full stack developer, passionate about technolo
 
 ## Contact
 
-If you would like to get in touch with me, you can find me on [LinkedIn](ttps://www.linkedin.com/in/erickson-graterol-5370632a5) or on [Instagram](https://www.instagram.com/erick.gr17/).
+If you would like to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/erickson-graterol-5370632a5) or on [Instagram](https://www.instagram.com/erick.gr17/).
 
 Thank you for visiting my repository!
